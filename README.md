@@ -56,7 +56,8 @@ board-tarefas-java/
 
 ## 🗄️ Configuração do Banco
 
-1. Crie o banco de dados:
+---
+
 ```sql
 -- Terminal MySQL
 source schema.sql;
